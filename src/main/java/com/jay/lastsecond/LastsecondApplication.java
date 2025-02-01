@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LastsecondApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LastsecondApplication.class, args);
+		SpringApplication.run(LastsecondApplication.class, arg);
 	}
 
 }
